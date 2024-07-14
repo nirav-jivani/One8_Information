@@ -5,6 +5,7 @@ Its very basic signle page application contains spinner , button and textviews
 Its gives dropdown selection options to select categories like : foot Wear or Casual Wear
 
 based on the selected Category, App Displays top 5 seller brands on Amazon in list View
+
 Screen Shots:
 
 ![1](https://github.com/user-attachments/assets/29cf980b-1d2f-4665-b6c8-0157661115c2)
