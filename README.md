@@ -1,3 +1,8 @@
+GitHub Link : https://github.com/nirav-jivani/One8_Information
+
+Name : Nirav jivani 
+ID : 1221633
+
 Assignment 1:
 
 Its very basic signle page application contains spinner , button and textviews
